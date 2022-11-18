@@ -9,7 +9,6 @@ Project Description: Students are often worried about their chances of admission
 Members:
 
 Gragalakshmi.L
-Sathya Prakash
 Janani Priyadharshini.S
 Gouthami.S
 Project Status: Completed
