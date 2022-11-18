@@ -13,7 +13,7 @@ Students are often worried about their chances of admission to University. The a
 
 <b>Members:</b>
 <ul>
-<li>Gragalakshmi.L V</li>
+<li>Gragalakshmi.L</li>
 <li>Janani Priyadharshini.S</li>
 <li>Gouthami.S</li>
 <li>D.Shrinidhi</li>
