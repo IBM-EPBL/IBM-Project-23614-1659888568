@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+
+.heading {
+    text-align: center;
+    color: rgb(65, 199, 220);
+}
+
+.MAIN {
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+}
+
+.navbar {
+    text-align: center;
+}
+
+body {
+    font: 62.5%/1.5 "Lucida Grande", "Lucida Sans", Tahoma, Verdana, sans-serif;
+    background: #a3a9bde9;
+    background: -webkit-linear-gradient(to right, #5a6069, #5a6069);
+    background: linear-gradient(to right, #5a6069, #5a6069);
+    color: #000000;
+    text-align: center;
+}
+
+h1 {
+    font-size: 2.2em;
+}
+
+h2 {
+    font-size: 2.0em;
+}
+
+h4 {
+    font-size: 1.6em;
+}
+
+input.text {
+    padding: 3px;
+    border: 1px solid #999999;
+}
+
+img {
+    min-height:100vh;
+    width:100%;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(Images/uni_img.jpg);
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position:center;
+    position:default;
+}
+
+.text-responsive-h {
+    font-size: calc(80% + 0.6vw + 0.6vh);
+}
